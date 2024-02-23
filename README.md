@@ -1,4 +1,5 @@
 <div align="center">
+  <h1>LLM Roadmap Link (https://whimsical.com/generative-ai-U6WTDo4GMF3WQRM7c8oHZD) </h1>
   <h1>🗣️ Large Language Model Course</h1>
   <p align="center">
     🐦 <a href="https://twitter.com/maximelabonne">Follow me on X</a> • 
